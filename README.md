@@ -1,6 +1,11 @@
 # Rackspace to Route 53
 A generic migration script to migrate DNS records from Rackspace Cloud DNS to Amazon Route 53.
 
+## Usage
+```
+ruby rackspace_to_route53.rb
+```
+
 ## Dependencies
 - ruby
 - fog
